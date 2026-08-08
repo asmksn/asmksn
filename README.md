@@ -1,6 +1,8 @@
+![Software QA Engineer | Manual & Automation Testing | API & Mobile Testing](https://media.licdn.com/dms/image/v2/D5616AQGR5ALibQSGFw/profile-displaybackgroundimage-shrink_200_800/B56Z_hMjjOIMAY-/0/1786189593148?e=1787788800&v=beta&t=G_BcAqeURMGH9V3j3_z00WIsxJzo_FSgP7k8pa227oc)
+
+
 ### Hi there 👋, A S M Kibria | SQA Engineer
 #### Software QA Engineer | Manual & Automation Testing | API & Mobile Testing
-![Software QA Engineer | Manual & Automation Testing | API & Mobile Testing](https://media.licdn.com/dms/image/v2/D5616AQG0p59RuYe5PQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1729484942641?e=1787788800&v=beta&t=qYJt4VgMhScLWZyhAK8lwv7BeVSqJWp-yN8VMd6ghmA)
 
 QA professional with 12+ years of experience in software testing, mobile testing, telecom validation, API testing, regression testing, and defect management. Experienced with Samsung, Xiaomi, and Bulipe Tech, and currently focusing on modern QA automation and software testing.
 
