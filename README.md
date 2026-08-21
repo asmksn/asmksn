@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f9b8e,100:1e3c72&height=180&section=header&text=A%20S%20M%20Kibria&fontSize=42&fontColor=ffffff&fontAlignY=45)
 
-<p align="center">QA &amp; Test Engineer — Software Testing, Field &amp; Network Validation (2G–5G)</p>
+<p align="center">QA &amp; Test Engineer — Software Testing, Field &amp; Network Validation</p>
 
 <div align="center">
 
@@ -38,8 +38,16 @@ broader web/mobile automation (Playwright, advanced API testing).
 [![Remote](https://img.shields.io/badge/Remote-1e3c72?style=for-the-badge)](https://linkedin.com/in/asmksn)
 [![Onsite](https://img.shields.io/badge/Onsite-1e3c72?style=for-the-badge)](https://linkedin.com/in/asmksn)
 [![Hybrid](https://img.shields.io/badge/Hybrid-1e3c72?style=for-the-badge)](https://linkedin.com/in/asmksn)
+
+</div>
+
+#### 📇 Contact
+
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmksn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmksn@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-0088cc?style=for-the-badge&logo=googlephone&logoColor=white)](tel:+8801738343536)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801738343536)
 
 </div>
