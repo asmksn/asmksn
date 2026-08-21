@@ -17,24 +17,27 @@
 
 ## A S M Kibria
 
-QA and test engineer with 12+ years across software testing and telecom field
-and network validation spanning 2G to 5G. Comfortable moving between a
-Cypress suite and a QXDM log — the goal is always the same defect caught
-before a customer finds it.
+Software QA engineer with 12+ years designing and executing test strategy
+across the full stack — manual and automated testing, API and mobile
+testing, CI/CD-integrated regression suites, and performance testing with
+JMeter. I've also spent years validating software at the hardware/network
+layer (2G–5G, VoLTE, chipsets) — a depth of systems-level testing most QA
+engineers never get exposure to, and one that makes me sharper at finding
+the bugs a surface-level test pass misses.
 
 Most recently at **Xiaomi Bangladesh** (through Jul 2026), owning end-to-end
-quality validation for smartphone software — localization, functional,
-regression, and performance testing across 2G/3G/4G/5G, VoLTE, VoWiFi, and
-IMS — plus live network and operator-trial validation, reporting directly
-into China HQ.
+software quality validation for smartphone releases — localization,
+functional, regression, and performance testing — signing off builds before
+rollout and reporting directly into China HQ.
 
-🌱 Currently building on: AI-assisted QA workflows, following on from work
-optimizing AI models (Google Gemini Pro, Galaxy AI) for issue tracking and
-diagnostics at Samsung.
-
+🌱 Currently building on: AI-assisted QA workflows and expanding into
+broader web/mobile automation (Playwright, advanced API testing).
 <div align="center">
 
-[![Open to work](https://img.shields.io/badge/Open%20to-QA%20%2F%20Test%20Engineering%20roles-2ea44f?style=for-the-badge)](https://linkedin.com/in/asmksn)
+[![Open to work](https://img.shields.io/badge/Open%20to-Software%20QA%20%2F%20Test%20Engineering-2ea44f?style=for-the-badge)](https://linkedin.com/in/asmksn)
+[![Remote](https://img.shields.io/badge/Remote-1e3c72?style=for-the-badge)](https://linkedin.com/in/asmksn)
+[![Onsite](https://img.shields.io/badge/Onsite-1e3c72?style=for-the-badge)](https://linkedin.com/in/asmksn)
+[![Hybrid](https://img.shields.io/badge/Hybrid-1e3c72?style=for-the-badge)](https://linkedin.com/in/asmksn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/asmksn)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asmksn@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801738343536)
